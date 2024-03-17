@@ -64,6 +64,7 @@ int main(int argc, char *argv[]) {
             write(clnt_sock, message, str_len);
         }
 
+        printf("-> closed! \n");
         close(clnt_sock);
     }
 
