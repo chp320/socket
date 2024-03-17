@@ -18,3 +18,6 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(socket
 chap01/hello_server.c)
+
+### 참고2
+- 본 프로젝트 내 '99.answer_sheets', '99.org_codes' 는 출판사 블로그(https://blog.naver.com/oedu/223011209880) 에서 제공하는 코드로 원본은 출판사 블로그에 있음.
